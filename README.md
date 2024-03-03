@@ -1,4 +1,4 @@
-# Adaptive UI App SMD
+# FetchApi App SMD
 
 ## SMD Week 5 Task by Group 11:
 - 20K-0361 Syed Zeeshan Aijaz
